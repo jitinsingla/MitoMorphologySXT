@@ -9,8 +9,14 @@ Install Anaconda for setup ([link](https://docs.anaconda.com/anaconda/install/))
 conda env create -f env/environment.yml
 conda activate sxt_seg
 ```
-#### Data preparation:
+#### Data Requirements & Naming Convention:
 - Raw mrc file name should end with `_pre_rec.mrc`.
 - Mask mrc file name should end with `_pre_rec_labels.mrc`.
+- Raw MRC and corresponding label must have **identical shape**, e.g. both raw mrc and corresponding label has shape `(425, 430, 410)`. Each independent raw mrc can be of different size.
 - Inside `Data` folder, user have to make individal folder for each image sample like `Data/Cell1/` `Data/Cell2/`
-#### To prepare the data for Analysis, copy individual Raw mrc Cell, Mask and corresponding json file inside each `Data/` subfolders.
+- To prepare the data for Analysis, copy individual Raw mrc Cell, Mask and corresponding json file inside each `Data/` subfolders.
+- Label encoding must follow:
+  - `0` → background
+  - `1` → cytoplasm label
+  - `2` → nucleus
+  - `5` → mitochondria
