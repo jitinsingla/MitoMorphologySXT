@@ -13,7 +13,7 @@ conda activate sxt_seg
 - Tomogram file name should end with `_pre_rec.mrc`.
 - Mask file name should end with `_pre_rec_labels.mrc`.
 - Tomogram and corresponding label must have **identical shape**, e.g. both tomogram and corresponding label has shape `(425, 430, 410)`. Each independent tomogram can be of different size.
-- Inside `Data` folder, user have to make individal folder for each image sample like `Data/Cell1/` `Data/Cell2/`
+- Inside `Data` folder, user have to make individal folders for each tomogram like `Data/Cell1/` `Data/Cell2/`
 - To prepare the data for Analysis, copy individual Raw mrc Cell, Mask and corresponding json file inside each `Data/` subfolders.
 - Label encoding must follow:
   - `0` → background
