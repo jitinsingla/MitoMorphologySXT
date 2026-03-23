@@ -29,7 +29,7 @@ Our pipeline introduces a morphotype-resolved 3D morphometry approach to quantif
 This repository generates 3D surface renderings, morphological distributions, and morphotype clustering plots directly from raw tomogram data.
 
 <p align="center">
-  <img src="images/3d_cell_Rendering.png" width="400" alt="3D Render">
+  <img src="images/3D_cell_Rendering.png" width="400" alt="3D Render">
   <img src="images/example_plots.png" width="400" alt="Data Plots">
 </p>
 
