@@ -30,7 +30,7 @@ This repository generates 3D surface renderings, morphological distributions, an
 
 <p align="center">
   <img src="images/3D_cell_Rendering.png" width="400" alt="3D Render">
-  <img src="images/example_plots.png" width="400" alt="Data Plots">
+  <img src="images/Plot.png" width="400" alt="Data Plots">
 </p>
 
 ---
