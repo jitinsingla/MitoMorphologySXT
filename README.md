@@ -32,7 +32,7 @@ This repository generates 3D surface renderings, morphological distributions, an
 We recommend using [Anaconda](https://docs.anaconda.com/anaconda/install/) or Miniconda to manage dependencies.
 
 **1. Create and activate the environment:**
-```bash
+
 conda env create -f env/environment.yml
 conda activate sxt_seg
 #### Data Requirements & Naming Convention:
