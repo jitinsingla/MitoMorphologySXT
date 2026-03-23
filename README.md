@@ -20,3 +20,5 @@ conda activate sxt_seg
   - `1` → cytoplasm label
   - `2` → nucleus
   - `5` → mitochondria
+## Analysis
+To run the paper experiments and generate plots user should clone this repo, install the given environment and then run the Jupyter notebook 
