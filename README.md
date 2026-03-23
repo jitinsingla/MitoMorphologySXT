@@ -37,7 +37,7 @@ We recommend using [Anaconda](https://docs.anaconda.com/anaconda/install/) or Mi
 **1. Create and activate the environment:**
 ```bash
 conda env create -f env/environment.yml
-conda activate sxt_seg
+conda activate Mito_Morph_Analysis
 ```
 #### Data Requirements & Naming Convention:
 - Tomogram file name should end with `_pre_rec.mrc`.
