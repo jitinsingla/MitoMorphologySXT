@@ -21,4 +21,4 @@ conda activate sxt_seg
   - `2` → nucleus
   - `5` → mitochondria
 ## Analysis
-To run the paper experiments and generate plots user should clone this repo, install the given environment and then run the Jupyter notebook `MitoMorph_Analysis`
+To run the paper experiments and generate plots user should clone this repo, install the given environment and then run the Jupyter notebook `MitoMorph_Analysis.ipynb`
