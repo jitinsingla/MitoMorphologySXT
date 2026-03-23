@@ -56,6 +56,7 @@ To run the paper experiments and generate plots user should clone this repo, ins
   journal={Journal Name / Pre-print Server},
   year={2026},
   doi={10.64898/2026.03.19.712811},
-  url= https://doi.org/10.64898/2026.03.19.712811}
+  url= https://doi.org/10.64898/2026.03.19.712811
+  }
 
 
