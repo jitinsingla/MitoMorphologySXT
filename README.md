@@ -18,13 +18,6 @@ This is the official codebase for the analysis presented in:
 ## 🔬 Methods Summary
 Our pipeline introduces a morphotype-resolved 3D morphometry approach to quantify mitochondrial networks. By segmenting high-resolution tomograms, we extract distinct spatial and structural features—linking mitochondrial shape (structure), internal characteristics (density), and cellular positioning (location). This multidimensional characterization provides new insights into mitochondrial dynamics and cellular metabolism.
 
-## 📊 Graphical Workflow
-*(Replace the image below with a flowchart or diagram of your code's pipeline)*
-
-<p align="center">
-  <img src="images/workflow_diagram.png" width="800" alt="Analysis Workflow">
-</p>
-
 ## 🖼️ Example Outputs
 This repository generates 3D surface renderings, morphological distributions, and morphotype clustering plots directly from raw tomogram data.
 
