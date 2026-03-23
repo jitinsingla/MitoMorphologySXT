@@ -4,7 +4,7 @@
 
 <h1 align="center">Mitochondrial Morphotype Characterization</h1>
 
-This is the codebase used for the analysis in paper. [Yadav, A., Singh, A., Deshmukh, A., Varma, R., Singh, A., White, K., & Singla, J. (2026). Morphotype-Resolved 3D Morphometry Reveals a Structure-Density-Location Coupling in Mitochondrial Networks](https://doi.org/10.64898/2026.03.19.712811)
+This is the codebase used for the analysis in paper. [Singh, A., Yadav, A., Deshmukh, A., Varma, R., Singh, A., White, K., & Singla, J. (2026). Morphotype-Resolved 3D Morphometry Reveals a Structure-Density-Location Coupling in Mitochondrial Networks](https://doi.org/10.64898/2026.03.19.712811)
 
 ## Prerequisties / Environment Setup
 Install Anaconda for setup ([link](https://docs.anaconda.com/anaconda/install/))
