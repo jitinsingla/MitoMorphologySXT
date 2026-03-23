@@ -10,6 +10,7 @@ conda env create -f env/environment.yml
 conda activate sxt_seg
 ```
 #### Data preparation:
-Raw mrc file name should end with `_pre_rec.mrc`.
-Mask mrc file name should end with `_pre_rec_labels.mrc`.
-To prepare the data for Analysis, copy raw mrc files, Masks and corresponding json files in `Data/File(s)/`.
+- Raw mrc file name should end with `_pre_rec.mrc`.
+- Mask mrc file name should end with `_pre_rec_labels.mrc`.
+- Inside `Data` folder, user have to make individal folder for each image sample like `Data/Cell1/` `Data/Cell2/`
+To prepare the data for Analysis, copy individual Raw mrc Cell, Mask and corresponding json file inside each `Data/` subfolders.
