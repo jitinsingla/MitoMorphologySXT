@@ -51,14 +51,13 @@ conda activate sxt_seg
 To run the paper experiments and generate plots user should clone this repo, install the given environment and then run the Jupyter notebook `MitoMorph_Analysis.ipynb`
 
 `If you use this code or our dataset in your research, please cite our paper:`
-```bash
 @article{singh2026mitomorph,
   title={Morphotype-Resolved 3D Morphometry Reveals a Structure-Density-Location Coupling in Mitochondrial Networks},
   author={Singh, A. and Yadav, A. and Deshmukh, A. and Varma, R. and Singh, A. and White, K. and Singla, J.},
   journal={Journal Name / Pre-print Server},
   year={2026},
-  doi={10.64898/2026.03.19.712811}
+  doi={10.64898/2026.03.19.712811},
+  url={[https://doi.org/10.64898/2026.03.19.712811]
 }
-```
-``url``={[https://doi.org/10.64898/2026.03.19.712811](https://doi.org/10.64898/2026.03.19.712811)}
+
 
