@@ -6,8 +6,11 @@
 
 <p align="center">
   <a href="https://doi.org/10.64898/2026.03.19.712811"><img src="https://img.shields.io/badge/DOI-10.64898%2F2026.03.19.712811-blue" alt="DOI"></a>
+ <p align="center">
   <img src="https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue" alt="Python Version">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPLv3-orange.svg" alt="License">
+  </a>
 </p>
 
 This is the official codebase for the analysis presented in:  
