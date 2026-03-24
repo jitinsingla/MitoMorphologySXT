@@ -4,7 +4,6 @@
   "mrc": {
     "lac": "Stevens_pancreatic_INS_1E_783_6_pre_rec.mrc",
     "labelfield": "Stevens_pancreatic_INS_1E_783_6_pre_rec_labels.mrc",
-    "prediction_mask": "Stevens_pancreatic_INS_1E_783_6_merged_prediction.mrc",
     "key": {
       "exterior": 0,
       "nucleus": 2,
