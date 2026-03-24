@@ -13,6 +13,3 @@ DATA_DIR = Path(DATA_DIR)
 # set working directory for merging files
 COLLECTION = Path(DATA_DIR / "Data/") # "Original_data/"
 
-#RAW = Path(DATA_DIR_1 / "raw_tomogram_mrc_files/")
-#RAW_LAC = Path(DATA_DIR_1 / "LACfactorXraw_tomogram_mrc_files/")
-
