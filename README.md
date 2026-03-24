@@ -45,6 +45,7 @@ conda activate Mito_Morph_Analysis
 - Tomogram and corresponding label must have **identical shape**, e.g. both tomogram and corresponding label has shape `(425, 430, 410)`. Each independent tomogram can be of different size.
 - Inside `Data` folder, user have to make individal folders for each tomogram like `Data/Cell1/` `Data/Cell2/`
 - To prepare the data for Analysis, copy individual Raw mrc Cell, Mask and corresponding json file inside each `Data/` subfolders.
+- Include a `parameter.json` file inside the Data folder. Example file `parameter.json` is preovided in the `Data` folder.
 - Label encoding must follow:
   - `0` → background
   - `1` → cytoplasm label
