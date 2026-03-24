@@ -1,0 +1,69 @@
+name: Mito_Morph_Analysis
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+
+  # Core
+  - python=3.11.3
+  - pip
+
+  # Scientific stack (lock these)
+  - numpy=1.24.3
+  - pandas=1.5.3
+  - scipy=1.10.1
+  - matplotlib=3.7.1
+  - seaborn=0.12.2
+  - statsmodels=0.13.5
+
+  # Image analysis
+  - scikit-image=0.20.0
+  - scikit-learn=1.2.2
+  - opencv
+  - tifffile
+  - imageio
+  - pillow
+  - h5py
+
+  # Data
+  - openpyxl
+  - xarray
+
+  # Visualization
+  - plotly
+
+  # Performance
+  - numba
+  - numexpr
+  - joblib
+  - tqdm
+
+  # Notebook
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipython
+
+  # File formats
+  - mrcfile
+
+  # Required libs
+  - libtiff
+  - hdf5
+  - zlib
+
+  # Only true pip-only packages here
+  - pip:
+      - simpleitk==2.2.1
+      - mrc==0.3.1
+      - nibabel==5.2.1
+      - pyimagej==1.5.0
+      - mayavi==4.8.2
+      - vtk==9.3.0
+      - scikit-posthocs==0.9.0
+      - statannotations==0.6.0
+      - aicsshparam==0.1.10
+      - pyshtools==4.10.4
+      - memory-profiler==0.61.0
