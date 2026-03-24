@@ -1,0 +1,8 @@
+{
+    "colors":{"No_Stimulation":"green","Glu(5min)":"red"},
+    
+    "conditions": ["No_Stimulation", "Glu(5min)"],
+    
+"No_Stimulation" : ["783_5", "784_5","783_6","783_12"],
+ "Glu(5min)" : ["1060_4-6", "1092_11","1044_7","1044_8-9"]
+}
