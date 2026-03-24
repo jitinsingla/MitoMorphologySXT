@@ -6,9 +6,7 @@ This file sets paths to data folders:
 import os
 from pathlib import Path
 
-#DATA_DIR_1 = r"/home/anshu/Documents/Github_push"
-#DATA_DIR_1 = Path(DATA_DIR_1)
-DATA_DIR = r"/home/anshu/Documents/Github_push"
+DATA_DIR = r"./Documents/Github_push"
 
 DATA_DIR = Path(DATA_DIR)
 
