@@ -51,7 +51,7 @@ conda activate Mito_Morph_Analysis
   - `2` → nucleus
   - `5` → mitochondria
 ## Analysis
-To run the paper experiments and generate plots, user should clone this repo and install the given environment. Then run the Jupyter notebook `MitoMorph_Analysis.ipynb`
+To run the paper experiments and generate plots, user should clone this repo and install the given environment. Then run the Jupyter notebook `MitoMorph_Analysis.ipynb` on their dataset.
 
 #### If you use this code or our dataset in your research, please cite our paper:
 @article{singh2026mitomorph, title={Morphotype-Resolved 3D Morphometry Reveals a Structure-Density-Location Coupling in Mitochondrial Networks},
