@@ -2,7 +2,7 @@
   <img src="images/GA_Mito_Morphology.png" alt="Graphical Abstract">
 </p>
 
-<h1 align="center">Mitochondrial Morphotype Characterization</h1>
+<h1 align="center">Mitochondrial Morphotype Analysis</h1>
 
 <p align="center">
   <a href="https://doi.org/10.64898/2026.03.19.712811"><img src="https://img.shields.io/badge/DOI-10.64898%2F2026.03.19.712811-blue" alt="DOI"></a>
