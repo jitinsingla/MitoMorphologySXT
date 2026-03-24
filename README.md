@@ -43,8 +43,7 @@ conda activate Mito_Morph_Analysis
 - Tomogram file name should end with `_pre_rec.mrc`.
 - Mask file name should end with `_pre_rec_labels.mrc`.
 - Tomogram and corresponding label must have **identical shape**, e.g. both tomogram and corresponding label has shape `(425, 430, 410)`. Each independent tomogram can be of different size.
-- Inside `Data` folder, user have to make individal folders for each tomogram like `Data/Cell1/` `Data/Cell2/`
-- To prepare the data for Analysis, copy individual Raw mrc Cell, Mask and corresponding json file (Sample file given inside `Data/783_6_pre_rec`) inside `Data/` subfolders.
+- Inside the `Data` folder, the user must create individual folders for each tomogram, each containing three files: the tomogram, the mask, and the tomogram-specific JSON file. A sample JSON file is provided in `Data/783_6_pre_rec`.
 - Include a `parameter.json` file inside the Data folder. Example file `parameter.json` is provided in the `Data` folder.
 - Label encoding must follow:
   - `0` → background
