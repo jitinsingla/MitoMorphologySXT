@@ -32,7 +32,7 @@ conda activate Mito_Morph_Analysis
 - Include a `parameter.json` file inside the Data folder. Example file `parameter.json` is provided in the `Data` folder.
 - Label encoding must follow:
   - `0` → background
-  - `1` → cytoplasm label
+  - `1` → cell
   - `2` → nucleus
   - `5` → mitochondria
 ## Analysis
