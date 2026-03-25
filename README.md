@@ -1,3 +1,5 @@
+# Mitochondrial Morphology Analysis #
+
 This is the official codebase for the analysis presented in:  
 **[Morphotype-Resolved 3D Morphometry Reveals a Structure-Density-Location Coupling in Mitochondrial Networks](https://doi.org/10.64898/2026.03.19.712811)** *(Singh et al., 2026)*.
 
