@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="images/GA_Mito_Morphology.png" alt="Graphical Abstract">
-</p>
-
-<h1 align="center">Mitochondrial Morphotype Analysis</h1>
-
-<p align="center">
-  <a href="https://doi.org/10.64898/2026.03.19.712811"><img src="https://img.shields.io/badge/DOI-10.64898%2F2026.03.19.712811-blue" alt="DOI"></a>
- <p align="center">
-  <img src="https://img.shields.io/badge/python-3.11-blue" alt="Python Version">
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-GPLv3-orange.svg" alt="License">
-  </a>
-</p>
-
 This is the official codebase for the analysis presented in:  
 **[Morphotype-Resolved 3D Morphometry Reveals a Structure-Density-Location Coupling in Mitochondrial Networks](https://doi.org/10.64898/2026.03.19.712811)** *(Singh et al., 2026)*.
 
