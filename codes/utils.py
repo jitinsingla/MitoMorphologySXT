@@ -359,13 +359,11 @@ def calculateMCILocal(args, label, conditions):
     pi = math.pi
     b = 3/2
     individualMCI = (np.array(SurfaceA_um)**b) / (4 * pi * np.array(volume_um))
-    WholeMCI = (np.sum(SurfaceA_um)**b) / (4 * pi * np.sum(volume_um))
     resultDict = {
         'i': i,
         'cell_id': conditions[cell.data["name"]]['cell'],
         'conditions': conditions[cell.data["name"]]['condition'],
-        'individualMCI': list(individualMCI),
-        'WholeMCI' : WholeMCI
+        'individualMCI': list(individualMCI)
     }
    
     return resultDict
